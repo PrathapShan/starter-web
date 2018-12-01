@@ -18,3 +18,5 @@ Doing some changes in Local
 Git Stash Changes to commit and rollback
 Modify for stash changes
 
+Stage changes
+
