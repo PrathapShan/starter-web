@@ -1,0 +1,41 @@
+* [33m44ee6a0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: Release1.0[m[33m)[m Stshed Changes from branch
+* [33me7dfc39[m My Stash changes
+* [33m3540c9c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Commit for Stashedd Version
+* [33mc6fb69e[m Stashed Changes
+* [33m6fe73a2[m Added Stash message
+* [33mc2c9e2b[m Change in local
+* [33m2ca79a3[m Update README.md
+[31m|[m * [33m8cf5566[m[33m ([m[1;32mmybranch[m[33m)[m Resolved COnflicts
+[31m|[m[31m/[m  
+* [33m69bcb87[m Commit from Master 2nd time for merge conflict
+* [33mcd34113[m Commit For Merge Conflict From Master
+*   [33m65b72a6[m Merge branch 'mybranch'
+[33m|[m[34m\[m  
+[33m|[m * [33m4ec5a5e[m Commit from mrbranch for rebase
+* [34m|[m [33m032d3ed[m Second Change from Master fro rebase
+[34m|[m[34m/[m  
+* [33mc363241[m Modified from Master for Rebase
+*   [33m7ddd2a0[m Resolved conflicts
+[35m|[m[36m\[m  
+[35m|[m * [33mc8a3953[m Git Conflicts from develop
+* [36m|[m [33me6e2508[m Adding Conflicts from Master
+* [36m|[m   [33m80246ce[m Merge develop with master
+[1;31m|[m[36m\[m [36m\[m  
+[1;31m|[m [36m|[m[36m/[m  
+[1;31m|[m * [33mdd94ff3[m Second Commit for auto merge
+[1;31m|[m * [33m4954ea4[m Auto Commit
+* [1;32m|[m [33m2e5d538[m Auto COmmit from Master
+[1;32m|[m[1;32m/[m  
+* [33mb782cc1[m From Develop Branch
+* [33mf432385[m Poda
+* [33mef681aa[m Third Commit
+* [33mfc1b63b[m Second Commit
+* [33m741daaf[m Commit Message
+* [33maaad567[m Life is Screwed
+* [33mff4037e[m COmmit Message
+*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33me73f914[m Adding Purpose section to README
+[1;33m|[m * [33m34f563b[m Adding README file
+[1;33m|[m[1;33m/[m  
+* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
